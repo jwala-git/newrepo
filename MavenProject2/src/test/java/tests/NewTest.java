@@ -9,6 +9,7 @@ import org.testng.annotations.AfterClass;
 public class NewTest {
 
 	public WebDriver driver;
+	
 
 	@Test
 	public void openMyBlog() {
